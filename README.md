@@ -94,7 +94,7 @@
     <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=2&w=80&h=80" height="50" style="margin-right: 20px;"/>
   </a> 
   <br>
-  <b>Deep Learning Nanodegree</b> - Coursera
+  <b>Supervised Machine Learning</b> - Coursera
 </p>
 
 
