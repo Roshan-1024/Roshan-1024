@@ -1,4 +1,4 @@
-``<h1 align="center"> Hey there, I'm <a href="#" target="_blank">Roshan Pradhan</a>
+<h1 align="center"> Hey there, I'm <a href="#" target="_blank">Roshan Pradhan</a>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif#gh-light-mode-only" alt="🌟" width="32" height="32">
@@ -11,7 +11,7 @@
   </a>
 </div>
 
-## 🚀 About Me  
+## 👨‍💻 About Me  
 🔹 🎓 First-year B.Tech student at IIIT Kalyani  
 🔹 🤖 Passionate about Machine Learning, Deep Learning and Open Source  
 🔹 💻 Solved **200+ LeetCode** problems and counting  
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 My Skill Set
+## ⚙️ My Skill Set
 
 ### **Languages**  
 <p align="left">
@@ -78,7 +78,9 @@
 - **SFML** - Simple and Fast Multimedia Library  
 - **STL** - Standard Template Library  
 
-### 📜 Certifications  
+---
+
+# 📜 Certifications  
 <p align="left">
   <a href="https://coursera.org/share/5f578b420ed79dc82e1f96284aeb16ec">
     <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=2&w=80&h=80" height="50" style="margin-right: 20px;"/>
