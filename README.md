@@ -13,9 +13,8 @@
 
 ## 👨‍💻 About Me  
 🔹 🎓 First-year B.Tech student at IIIT Kalyani  
-🔹 🤖 Passionate about Machine Learning, Deep Learning and Open Source  
+🔹 🤖 Interests: **Machine Learning, Deep Learning, Open Source, Competitive Programming**  
 🔹 💻 Solved **200+ LeetCode** problems and counting  
-🔹 📌 Interests: **AI/ML, Competitive Programming, Open Source**  
 🔹 🚀 Striving to **learn something new every day**  
 
 ---
